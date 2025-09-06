@@ -1,4 +1,4 @@
-# [Zepto-inventory-dashboard]()
+# [Zepto-inventory-dashboard](https://raw.githubusercontent.com/PrachiGupta227/Zepto-inventory-dashboard/refs/heads/main/zepto%20dashboard.pbit)
 
 ## 📦 Zepto Inventory Analysis Dashboard
 
@@ -79,4 +79,4 @@ Operational Efficiency: Supports managers in reducing stockouts and improving pr
 
 ## 📸 Screenshots / Demo
 
-[(Snapshot ](https://github.com/PrachiGupta227/Zepto-inventory-dashboard/blob/main/snapshot%20of%20Zepto%20Inventory%20Dashboard.png)repo)
+(https://github.com/PrachiGupta227/Zepto-inventory-dashboard/blob/main/snapshot%20of%20Zepto%20Inventory%20Dashboard.png)
