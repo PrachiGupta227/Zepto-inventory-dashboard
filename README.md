@@ -1,4 +1,4 @@
-# Zepto-inventory-dashboard
+# [Zepto-inventory-dashboard]()
 
 ## 📦 Zepto Inventory Analysis Dashboard
 
@@ -79,4 +79,4 @@ Operational Efficiency: Supports managers in reducing stockouts and improving pr
 
 ## 📸 Screenshots / Demo
 
-(Insert dashboard preview image – like the one you shared – here in the repo)
+[(Snapshot ](https://github.com/PrachiGupta227/Zepto-inventory-dashboard/blob/main/snapshot%20of%20Zepto%20Inventory%20Dashboard.png)repo)
