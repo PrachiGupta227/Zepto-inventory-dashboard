@@ -1,10 +1,10 @@
-# [Zepto-inventory-dashboard](https://raw.githubusercontent.com/PrachiGupta227/Zepto-inventory-dashboard/refs/heads/main/zepto%20dashboard.pbit)
+# [Zepto-Inventory Analysis-dashboard](https://raw.githubusercontent.com/PrachiGupta227/Zepto-inventory-dashboard/refs/heads/main/zepto%20dashboard.pbit)
 
 ## 📦 Zepto Inventory Analysis Dashboard
 
 An interactive Power BI dashboard built to analyze Zepto’s inventory performance, providing deep insights into stock levels, product categories, discounts, and overall inventory value. It enables quick commerce businesses to monitor and optimize their inventory in real time.
 
-## 📌 Short Description / Purpose
+## 📌 Purpose
 
 This dashboard is designed to give a 360° view of inventory management. It helps track stock availability, identify top products, measure discounts, and analyze category-wise performance. By visualizing key KPIs, it supports smarter decision-making in purchasing, stocking, and discounting strategies.
 
@@ -29,7 +29,7 @@ Inventory value & quantities
 
 (Created for analysis and visualization purposes in Power BI.)
 
-## 🌟 Features / Highlights
+## 🌟 Features 
 ### Business Problem
 
 Quick commerce companies like Zepto manage thousands of fast-moving products across multiple categories. Monitoring stock levels, discount strategies, and product demand is critical to avoid stockouts, optimize inventory value, and improve profitability.
@@ -58,6 +58,6 @@ Stock Optimization: Helps ensure high-demand categories are well stocked.
 Discount Strategy: Identifies where discounts are high and how they impact categories.
 Category Planning: Provides clarity on which categories drive the most inventory value.Operational Efficiency: Supports managers in reducing stockouts and improving product availability.
 
-## 📸 Screenshots / Demo
+## 📸 Snapshot
 
 https://github.com/PrachiGupta227/Zepto-inventory-dashboard/blob/main/snapshot%20of%20Zepto%20Inventory%20Dashboard.png
